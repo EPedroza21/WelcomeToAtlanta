@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WelcomeToAtlanta</string>
+    <string name="detailed_info">Detailed Info</string>
+    <string name="detailed_place_description">Located at: %1$s\nOpens at: %2$s\n%3$s</string>
+    <string name="not_family_friendly_place">Not family friendly</string>
+    <string name="family_friendly_place">Family friendly, bring your kids!</string>
+</resources>
